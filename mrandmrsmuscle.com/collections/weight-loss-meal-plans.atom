@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://mrandmrsmuscle.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://mrandmrsmuscle.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://mrandmrsmuscle.com/collections/weight-loss-meal-plans.atom"/>
+  <title>MrandMrsMuscle</title>
+  <updated>2019-09-20T00:00:01+04:00</updated>
+  <author>
+    <name>MrandMrsMuscle</name>
+  </author>
+  <entry>
+    <id>https://mrandmrsmuscle.com/products/4100540792928</id>
+    <published>2019-09-20T00:00:01+04:00</published>
+    <updated>2019-09-20T00:00:01+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://mrandmrsmuscle.com/products/pescatarian-weight-loss-meal-plan-4-weeks-1"/>
+    <title>Pescatarian Weight Loss Meal Plan - 4 Weeks</title>
+    <s:type>Meal Plans</s:type>
+    <s:vendor>MrandMrsMuscle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0114/8164/5152/products/Pescatarian_Weight_Loss_Meal_Plan_Vol.1.png?v=1568921297" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MrandMrsMuscle<br />
+        <strong>Type: </strong>Meal Plans<br />
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our 4-week Pescatarian Weight Loss Meal plan is high in protein, low in saturated fat, nutrient dense and has well structured easy to prepare meals.</p>
+<p><strong>Features</strong></p>
+<ul>
+<li>4 Weekly <strong>High Protein </strong>Meal Plans with Grocery List</li>
+<li>12 Easy Cook Recipes with Macros &amp; Calories</li>
+<li>96 Healthy Pescatarian Friendly Foods with Macro &amp; Calorie info</li>
+<li>Tailored for Weight Loss</li>
+<li>Low Calorie Base Meals</li>
+<li>Meal Diary Sheet</li>
+</ul>
+<p><b>Benefits of Pescatarian Diet</b></p>
+<ul>
+<li>
+<strong>High in Omega-3 </strong>- Increased Cardio &amp; Heart Health</li>
+<li>
+<strong>High in Arginine and Zinc </strong>- Improves Blood Flow and increases libido</li>
+<li>
+<strong>High Protein </strong>- Boosts Metabolism, muscle recovery and improves satiety</li>
+<li>
+<strong>High Anti-Oxidants and Phytonutrients</strong> - Boosts Energy Levels</li>
+<li>
+<strong>Nutrient Dense</strong> - Greater hormone response and easier weight loss</li>
+</ul>
+<p><strong>Considerations</strong></p>
+<p>The pescatarian diet is high in seafood and over 90% of fish consumed by humans comes from coastal fisheries where there is a risk of mercury contamination. Reduce or limit eating fish with high levels of mercury and use this <a href="https://www.fda.gov/food/consumers/advice-about-eating-fish" target="_blank" title="FDA Advice about eating fish" rel="noopener noreferrer">chart from the FDA</a> to guide you on what fish to choose, eat and avoid.</p>
+<p><b>For the best results use this Meal Plan with our Workout Calendars</b></p>
+<p><b>Note: </b>This plan is designed to be practical and straight to the point which will immediately accelerate your results and increase your awareness surrounding food choices and quantity.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>meal plan</s:tag>
+    <s:tag>pescatarian</s:tag>
+    <s:variant>
+      <id>https://mrandmrsmuscle.com/products/4100540792928</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mrandmrsmuscle.com/products/4100538957920</id>
+    <published>2019-09-20T00:00:01+04:00</published>
+    <updated>2019-09-20T00:00:01+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://mrandmrsmuscle.com/products/pescatarian-weight-loss-meal-plan-4-weeks"/>
+    <title>Omnivore Weight Loss Meal Plan - 4 Weeks</title>
+    <s:type>Meal Plans</s:type>
+    <s:vendor>MrandMrsMuscle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0114/8164/5152/products/Omnivore_Weight_Loss_Meal_Plan_Vol.1.png?v=1568925104" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MrandMrsMuscle<br />
+        <strong>Type: </strong>Meal Plans<br />
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our 4-week Omnivore Weight Loss Meal plan is high in lean sources of protein, essential amino acids and full of vital B-Vitamins. </p>
+<p><strong>NOTE: </strong>An Omnivore is an animal or person that eats both plant and animal based foods.</p>
+<p><strong>Features</strong></p>
+<ul>
+<li>4 Weekly Meal Plans with Grocery List</li>
+<li>Full Menu Overview with Macro info</li>
+<li>12 Easy Cook Recipes with Macros &amp; Calories</li>
+<li>99 Healthy Vegetarian Friendly Foods with Macro &amp; Calorie info</li>
+<li>Easy to customize</li>
+<li>Tailored for Weight Loss</li>
+<li>High Protein Base Meals</li>
+<li>Meal Diary Sheet</li>
+</ul>
+<p><b>Benefits of Omnivorous Diet</b></p>
+<ul>
+<li>
+<strong>High in Amino Acids </strong> - Vital for immunity, muscle growth, tissue repair and plenty of metabolic functions </li>
+<li>
+<strong>High B-Vitamins</strong> - Essential for converting food into energy, increasing muscle, joint and ligament strength</li>
+<li>
+<strong>High in Carnosine </strong>- Anti-aging, stabilizes blood sugar, improves gut health and cognitive function</li>
+<li>
+<strong>High in Proteins </strong>- Boosts metabolism, increases muscle, reduces cravings and improves satiety levels</li>
+</ul>
+<p><strong>Considerations</strong></p>
+<p>Although loaded with essential vitamins, minerals and amino acids. An omnivorous diet is higher in saturated fat, tougher on the digestive system when compared to alternative diets, higher in acidity which can lead to increased risks of disease, abdominal fat and aging.</p>
+<p>This makes it essential for anyone on this diet to pay very close attention to what and how much they are consuming (especially meat).  </p>
+<p><b>For the best results use this Meal Plan with our <a href="https://mrandmrsmuscle.com/collections/all" title="MrandMrsMuscle Workout Calendars">Workout Calendars</a></b></p>
+<p><b>Note: </b>This plan is designed to be practical and straight to the point which will immediately accelerate your results and increase your awareness surrounding food choices and quantity.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>meal plan</s:tag>
+    <s:tag>omnivore</s:tag>
+    <s:tag>omnivorous</s:tag>
+    <s:variant>
+      <id>https://mrandmrsmuscle.com/products/4100538957920</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mrandmrsmuscle.com/products/4100398678112</id>
+    <published>2019-09-20T00:00:00+04:00</published>
+    <updated>2019-09-20T00:00:00+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://mrandmrsmuscle.com/products/vegetarian-weight-loss-meal-plan-4-weeks"/>
+    <title>Vegetarian Weight Loss Meal Plan - 4 Weeks</title>
+    <s:type>Meal Plans</s:type>
+    <s:vendor>MrandMrsMuscle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0114/8164/5152/products/Vegetarian_Weight_Loss_Meal_Plan_Vol.1.png?v=1568918479" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MrandMrsMuscle<br />
+        <strong>Type: </strong>Meal Plans<br />
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our 4-week Vegetarian Weight Loss Meal plan is nutrient dense, full of flavour and has well structured meals.</p>
+<p><strong>Features</strong></p>
+<ul>
+<li>4 Weekly Meal Plans with Grocery List</li>
+<li>12 Easy Cook Recipes with Macros &amp; Calories</li>
+<li>91 Healthy Vegetarian Friendly Foods with Macro &amp; Calorie info</li>
+<li>Tailored for Weight Loss</li>
+<li>Low Calorie Base Meals</li>
+<li>Meal Diary Sheet</li>
+<li>Easily Customized - Suitable for Lacto and Ovo Vegetarians</li>
+</ul>
+<p><b>Benefits of Vegetarian Diet</b></p>
+<ul>
+<li>
+<strong>Healthier Cholesterol Levels</strong> </li>
+<li>
+<strong>High Fibre</strong> - Boosts Digestion</li>
+<li>
+<strong>High Anti-Oxidants and Phytonutrients</strong> - Boosts Energy Levels</li>
+<li>
+<strong>Nutrient Dense</strong> - Greater hormone response and easier weight loss</li>
+</ul>
+<p><strong>Considerations</strong></p>
+<p>Vegan, Lacto-Vegetarian and Ovo-Vegetarian diets can leave certain nutritional deficiencies.<br>If you follow one of these diets you need to include high protein foods and that are fortified with Vitamin B12, Vitamin D, Calcium, Iron, Zinc and Omega-3 fatty acids or consider taking a supplement that contains these nutrients. </p>
+<p><b>For the best results use this Meal Plan with our Workout Calendars</b></p>
+<p><b>Note: </b>This plan is designed to be practical and straight to the point which will immediately accelerate your results and increase your awareness surrounding food choices and quantity.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>meal plan</s:tag>
+    <s:tag>vegetarian</s:tag>
+    <s:variant>
+      <id>https://mrandmrsmuscle.com/products/4100398678112</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mrandmrsmuscle.com/products/4096730398816</id>
+    <published>2019-09-20T00:00:00+04:00</published>
+    <updated>2019-09-20T00:00:00+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://mrandmrsmuscle.com/products/vegan-weight-loss-meal-plan-4-weeks"/>
+    <title>Vegan Weight Loss Meal Plan - 4 Weeks</title>
+    <s:type>Meal Plans</s:type>
+    <s:vendor>MrandMrsMuscle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0114/8164/5152/products/Vegan_Weight_Loss_Meal_Plan_Vol._1.png?v=1568890848" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MrandMrsMuscle<br />
+        <strong>Type: </strong>Meal Plans<br />
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our 4-week Vegan Weight Loss Meal plan is extremely flexible and has well structured meals loaded with nutrients.</p>
+<p>The plan is designed to be practical and straight to the point which will immediately accelerate your results and increase your awareness surrounding food choices and quantity.</p>
+<p><strong>Features</strong></p>
+<ul>
+<li>4 Weekly Meal Plans with Grocery List</li>
+<li>12 Easy Cook Recipes with Macros &amp; Calories</li>
+<li>86 Healthy Vegan Friendly Foods with Macro &amp; Calorie info</li>
+<li>Tailored for Weight Loss</li>
+<li>Low Calorie Base Meals</li>
+<li>Meal Diary Sheet</li>
+</ul>
+<p><b>Benefits of Vegan Diet</b></p>
+<ul>
+<li>
+<strong>High Fibre</strong> - Boosts Digestion</li>
+<li>
+<strong>High Anti-Oxidants and Phytonutrients</strong> - Boost Energy Levels</li>
+<li>
+<strong>Nutrient Dense</strong> - Greater hormone response and easier weight loss</li>
+</ul>
+<p><strong>Considerations</strong></p>
+<p>Vegan diets can leave certain nutritional deficiencies.<br>If you follow a vegan diet you need to include foods that are fortified with Vitamin B12, Vitamin D, Calcium and Omega-3 fatty acids or consider taking a supplement that contains these nutrients. </p>
+<p><b>For the best results use this Meal Plan with our Workout Calendars</b></p>
+<p><b>Note: </b>This plan is designed to be practical and straight to the point which will immediately accelerate your results and increase your awareness surrounding food choices and quantity.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>meal plan</s:tag>
+    <s:tag>Vegan</s:tag>
+    <s:variant>
+      <id>https://mrandmrsmuscle.com/products/4096730398816</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
